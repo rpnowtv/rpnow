@@ -35,22 +35,22 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: Summer
-tagline: 'Delicious & healthy recipes'
+title: RPNOW
+tagline: 'All About Films'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
-url: https://connor-baer.github.io
-baseurl: /summer
+url: https://rpnow.in
+baseurl: 
 assets: /assets
 images: /images/
 image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
-  name: Connor Bär
+  name: RP Now
   bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
   image: author
-  url: https://connorbaer.co
+  url: https://rpnow.in
   email: hello@connorbaer.co
   twitter: connor_baer
 
