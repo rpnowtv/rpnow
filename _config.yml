@@ -37,8 +37,8 @@ dark_theme: false
 # Site meta
 title: RPNOW
 tagline: 'All About Films'
-description: 'A simple Jekyll theme with a photo sidebar.'
-keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
+description: 'RP Now is Youtube Channel all Videos are available here and Film Reveiws, Public Talk and So on.'
+keywords: 'film, sandalwood, Film talk, Youtube videos, entertainment news'
 url: https://rpnow.in
 baseurl: 
 assets: /assets
@@ -48,7 +48,7 @@ logo: /assets/icons/apple-icon-144x144.png
 
 author:
   name: RP Now
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  bio: RP Now is Youtube Channel Film Videos are available here.
   image: author
   url: https://rpnow.in
   email: hello@connorbaer.co
@@ -77,8 +77,7 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  GitHub: https://github.com/connor-baer/summer
-  Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
+  Youtube: https://www.youtube.com/channel/UCJ2y_IXqvBGzDfMaLm7t3Kw
 
 collections:
   recipes:
