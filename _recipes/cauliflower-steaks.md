@@ -6,33 +6,6 @@ time: 30
 category: lunch
 tags: [vegan, vegetarian, quick]
 ingredients:
-  - name: cauliflower
-    amount: 1
-    unit:
-  - name: smoked paprika
-    amount: ½
-    unit: tsp
-  - name: olive oil
-    amount: 2
-    unit: tbsp
-  - name: roasted red pepper
-    amount: 1
-    unit:
-  - name: black olives, pitted
-    amount: 4
-    unit:
-  - name: parsley
-    amount: small
-    unit: handful
-  - name: capers
-    amount: 1
-    unit: tsp
-  - name: red wine vinegar
-    amount: ½
-    unit: tbsp
-  - name: toasted flaked almonds
-    amount: 2
-    unit: tbsp
 ---
 
 Unlock the flavours of cauliflower with a red pepper, olive and caper salsa, topped with almonds. Healthy and vegan, it makes a tasty light lunch or supper.
