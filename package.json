@@ -1,7 +1,7 @@
 {
-  "name": "summer",
+  "name": "rpnow",
   "version": "2.0.0",
-  "description": "A simple Jekyll theme with a photo sidebar.",
+  "description": "A RP Now Youtube Channel",
   "main": "index.html",
   "scripts": {
     "start": "gulp default",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connor-baer/summer.git"
+    "url": "git+https://github.com/rpnowtv/rpnow.git"
   },
   "keywords": [
     "connor",
@@ -23,12 +23,12 @@
     "developer",
     "theme"
   ],
-  "author": "Connor Bär",
-  "license": "MIT",
+  "author": "RP Now",
+  "license": "GPL",
   "bugs": {
-    "url": "https://github.com/connor-baer/summer/issues"
+    "url": "https://github.com/rpnowtv/rpnow/issues"
   },
-  "homepage": "https://connor-baer.github.io/summer",
+  "homepage": "https://rpnow.in",
   "dependencies": {
     "list.js": "^1.5.0",
     "mappy-breakpoints": "^0.2.3",
